@@ -1,0 +1,9 @@
+.vscode 
+containers
+scratch
+runs
+inputs/user-data
+
+
+*.properties
+*.yml
